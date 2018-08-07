@@ -1,6 +1,7 @@
 #include <iostream>
 using std::cout;
-int main() {
+int main()
+{
     cout << "HelloWorld!\n";
     return 0;
 }
